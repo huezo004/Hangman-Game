@@ -1,0 +1,25 @@
+.shift{
+	margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+.guessed{
+	 font-family: 'Monoton', cursive;
+	  font-size: 20px; 
+	   color: white; 
+}
+.main{
+	 font-family: 'Monoton', cursive;
+	  font-size: 30px; 
+	   color: white; 
+}
+ .chancesStyle{
+  font-family: 'Monoton', cursive;
+   font-size: 20px; 
+    color: white; 
+}
+ .usedLettersc{
+  font-family: 'Monoton', cursive;
+   font-size: 20px; 
+    color: white; 
+}
